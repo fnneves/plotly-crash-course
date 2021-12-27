@@ -4,7 +4,7 @@ This course was designed to help you get started using Plotly. If you ever felt 
 
 There are two notebooks in this folder. One has all the code, and the other has just the headers in case you want to use it to code along with the videos.
 
-The full course is available [here](https://www.youtube.com/channel/UCCoI9Wo2dbNI_3-rXb5GJhg).
+The full course is available [here](https://course-plotly-dash-waitlist.ck.page/subscribe).
 
 
 ## What you will need
@@ -17,35 +17,48 @@ Might be useful to know a thing or two about data manipulation with the *pandas*
 
 I recommend taking your time with each chart, and really explore the options Plotly gives you for each one. I try to teach you how to look for the stuff you need in the documentation, so I hope you find it useful if you decide to explore Plotly further. It was for me when I was starting out!
 
+
+## Resources
+
+Notebook for the course - [https://github.com/fnneves/plotly-crash-course/blob/main/Plotly Crash Course - complete.ipynb](https://github.com/fnneves/plotly-crash-course/blob/main/Plotly%20Crash%20Course%20-%20complete.ipynb)
+
+Course Structure - [https://github.com/fnneves/plotly-crash-course/blob/main/Plotly Crash Course Program.docx](https://github.com/fnneves/plotly-crash-course/blob/main/Plotly%20Crash%20Course%20Program.docx)
+
+Advanced course with Plotly and Dash - [https://course-plotly-dash-waitlist.ck.page/subscribe](https://course-plotly-dash-waitlist.ck.page/subscribe)
+
+Plotly website - [https://plotly.com/python/](https://plotly.com/python/)
+
+
 ## Course Structure
-- Part 1 - Plotly Crash Course - Intro and Data Packages
 
-Introduction to Plotly Express and how to use the built-in data packages
+### Part 1 - Plotly Crash Course - Intro and Data Packages
 
-- Part 2 - Plotly Express and Scatter Plots
+- Introduction to Plotly Express and how to use the built-in data packages
 
-Using the Scatter Plot to create a simple graph
+### Part 2 - Plotly Express and Scatter Plots
 
-- Part 3 - Customizing Plotly Charts With Facets and Themes
+- Using the Scatter Plot to create a simple graph
 
-Using Facets to create multiple plots at once and making use of the built-in themes
+### Part 3 - Customizing Plotly Charts With Facets and Themes
 
-- Part 4 - Plotly Line Charts and the Figure Reference
+- Using Facets to create multiple plots at once and making use of the built-in themes
 
-Using Line Charts and learning how to make sense of Plotly’s documentation
+### Part 4 - Plotly Line Charts and the Figure Reference
 
-- Part 5 - Plotly Express and Bar Charts
+- Using Line Charts and learning how to make sense of Plotly’s documentation
 
-Using Bar Charts and facets to quickly generate multiple charts
+### Part 5 - Plotly Express and Bar Charts
 
-- Part 6 - Plotly Graph Objects - Figure Object
+- Using Bar Charts and facets to quickly generate multiple charts
 
-Intro to Graph Objects and how to create a Figure
+### Part 6 - Plotly Graph Objects - Figure Object
 
-- Part 7 - Plotly Graph Objects - Update Figure Layout
+- Intro to Graph Objects and how to create a Figure
 
-Updating the layout of our figure and creating a Scatter Plot
+### Part 7 - Plotly Graph Objects - Update Figure Layout
 
-- Part 8 - Plotly Graph Objects - Advanced Customization
+- Updating the layout of our figure and creating a Scatter Plot
 
-Learning how to tweak your figures to make them awesome!
+### Part 8 - Plotly Graph Objects - Advanced Customization
+
+- Learning how to tweak your figures to make them awesome!
