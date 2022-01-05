@@ -24,7 +24,7 @@ Notebook for the course - [https://github.com/fnneves/plotly-crash-course/blob/m
 
 Course Structure - [https://github.com/fnneves/plotly-crash-course/blob/main/Plotly Crash Course Program.docx](https://github.com/fnneves/plotly-crash-course/blob/main/Plotly%20Crash%20Course%20Program.docx)
 
-Advanced course with Plotly and Dash - [https://course-plotly-dash-waitlist.ck.page/subscribe](https://course-plotly-dash-waitlist.ck.page/subscribe)
+Advanced course with Plotly and Dash - [https://fneves.podia.com/dashboards-plotly-dash](https://fneves.podia.com/dashboards-plotly-dash)
 
 Plotly website - [https://plotly.com/python/](https://plotly.com/python/)
 
